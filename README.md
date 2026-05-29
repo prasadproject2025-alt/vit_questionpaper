@@ -10,7 +10,6 @@
    - Search, filter, and upload past years' question papers seamlessly.
    - Use the image text recognition feature to extract course code, faculty, and course name automatically. No manual input required!
 
-
 ### 2. **Intelligent Text Extraction**
    - Simply select images and click 'Extract' to let  system intelligently recognize and extract relevant information using regex.
    - Save time and ensure accurate metadata for each paper.
